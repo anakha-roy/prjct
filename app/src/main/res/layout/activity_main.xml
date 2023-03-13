@@ -79,7 +79,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New user ?"
+        android:text="want to signup ?"
         android:textSize="30dp"
         tools:layout_editor_absoluteX="184dp"
         tools:layout_editor_absoluteY="672dp"
